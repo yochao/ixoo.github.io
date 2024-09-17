@@ -1,0 +1,17 @@
+Package: flex3beta11
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X :h_h_x_t
+Depends: mobilesubstrate, firmware (>= 9.0)
+Conflicts: flexpackage, flexpackagebeta, com.fuyuchi.flex, flex2packagebeta, flex2package, com.fuyuchi.flex2, flex2blackpackagebeta, com.johncoates.flex3, flex3featurecatalog, com.abcydia.flex3
+Replaces: flexpackage, flexpackagebeta, com.fuyuchi.flex, flex2packagebeta, flex2package, com.fuyuchi.flex2, flex2blackpackagebeta, com.johncoates.flex3, flex3featurecatalog
+Filename: ./Flex3 Beta程序修改器（Xina）-Rootless.deb
+Size: 15187864
+MD5sum: 6b417fd012bb35d4242ee9f674bf6490
+SHA1: 0b5b7a4636e6419a958390499ceeb1610d5ab661
+SHA256: 821d6d3221311ae343638edc94b3d880286c4250c7731d4f1ae1b0c4d238674c
+Section: rootless修复插件
+Description: 来了老弟修复！Before use, please copy the application bundle that needs to be parsed to/var/jb/usr/lib/TweakInject/Flex.plist and fill it in. Warning: System patches are not supported, do not fill in com.apple.UIKit or com.apple.springboard。Only effective for third-party applications, the patch list can be parsed and displayed.。使用前请把需要解析的应用bundle拷贝到/var/jb/usr/lib/TweakInject/Flex.plist中填入，警告：不支持系统补丁，不要填入com.apple.UIKit或com.apple.springboard等，只对第三方应用生效，可解析，可显示补丁列表。
+Author: John Coates 来了老弟
+Name: Flex3 Beta程序修改器（Xina）-Rootless
+
